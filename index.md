@@ -78,7 +78,7 @@ __Other:__
 - Core technologies: WebExtensions API, Vue.js
 
 ` `
-- __Improving/updating/fixing/tweaking a number of browser extension for Chrome and/or Firefox:__
+- __Improving/updating/fixing/tweaking a number of browser extension for Chrome and/or Firefox:__<br>
   ● for working with Google Drive, OneNote, youtube, Photobucket<br>
   ● downloading videos from a social media platform<br>
   ● controlling and blocking popups<br>
