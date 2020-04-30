@@ -8,7 +8,7 @@ JavaScript developer
 <div id="webaddress">
   <a href="crayfishexterminator@gmail.com">crayfishexterminator@gmail.com</a>
 | <a href="https://github.com/traxium">My GitHub profile</a>
-|  <a href="https://www.upwork.com/fl/extensions">My Upwork profile (100% Job Success Score, Top Rated)</a>
+| <a href="https://www.upwork.com/fl/extensions">My Upwork profile (100% Job Success Score, Top Rated)</a>
 </div>
 
 
@@ -73,7 +73,7 @@ Core technologies: Puppeteer, Node.js, MongoDB
 
 Browser extension managing cookies and local storage
 Role: frontend
-Core tecnologies: WebExtensions API
+Core technologies: WebExtensions API
 
 Converting a web application (emulating user actions on a social media platform) to a browser extension
 Role: frontend
@@ -85,18 +85,18 @@ Improving/updating/fixing/tweaking a number of browser extension for Chrome and/
 - controlling and blocking popups
 - converting web pages to pdf
 - tweaking HTML5 video player on a particular website
-- text to speach
+- text to speech
 - enhancing DevTools
 - enhancing the UI of a number of websites (property bookings and CRMs)
 - notifications
 - managing tabs
-- woriking with images
+- working with images
 Role: backend, frontend, fullstack
-Core technologeis: WebExtensions API, Node.js
+Core technologies: WebExtensions API, Node.js
 
 Updating a (legacy) parser/crawler for 3 websites without CAPTCHA (≈20k + ≈300 + ≈130k pages)
 Role: backend
-Core technologeis: Cheerio.js, PhantomJS, Node.js
+Core technologies: Cheerio.js, PhantomJS, Node.js
 
 Browser extension to suggest products for the users based on their search history
 Role: frontend
@@ -106,18 +106,16 @@ Trading bot for 3 crypto trading platforms
 Role: fullstack
 Core technologies: Node.js, React, MongoDB
 
-Cryptocurrency contract in Ethereum blockchain
+Cryptocurrency smart contract in Ethereum blockchain
 Role: fullstack
-Core technologeis: Solidity, Solidity assembly, Node.js, MongoDB, React, AWS, web3
+Core technologies: Solidity, Solidity assembly, Node.js, MongoDB, React, AWS, web3
 
 Browser extensions to automate the user action on 2 major affiliate marketing networks
 Role: frontend
-Core technologeis: WebExtensions API
+Core technologies: WebExtensions API
 
 
 
 <!-- ### Footer
 
 Last updated: April 2020 -->
-
-
