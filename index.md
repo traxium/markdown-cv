@@ -19,7 +19,7 @@ JavaScript developer
 - Working on 1 pet project
 
 
-### Skills
+## Skills
 
 __Front-end:__
 - JavaScript (ES6+, WebSocket/Socket.IO, Vue.js, Vuex, Bootstrap Vue, React)
