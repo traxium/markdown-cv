@@ -40,77 +40,73 @@ Other:
 
 `2007-2011`
 __Nizhniy Novgorod State Technical University named after R.Y. Alekseev (NSTU)__
-
-- Bachelor's degree, Computer and Information Sciences, General (Honors Diploma)
+_Bachelor's degree, Computer and Information Sciences, General_ (Honors Diploma)
 
 `2011-2013`
 __Nizhniy Novgorod State Technical University named after R.Y. Alekseev (NSTU)__
-
-- Master's degree, Computer and Information Sciences, General (Honors Diploma)
+_Master's degree, Computer and Information Sciences, General_ (Honors Diploma)
 
 `2013-`
 __Nizhniy Novgorod State Technical University named after R.Y. Alekseev (NSTU)__
-
-- Doctor of Philosophy (Ph.D.), Management Information Systems, General
+_Doctor of Philosophy (Ph.D.), Management Information Systems, General_
 
 `2009-2012`
 __Nizhniy Novgorod State Technical University named after R.Y. Alekseev (NSTU)__
-
-- Bachelor's degreeField Of StudyBusiness Administration and Management, General
+_Bachelor's degreeField Of StudyBusiness Administration and Management, General_
 
 
 ## Recent projects
 
-Smart contract (with web UI) in Ethereum blockchain for managing collateral
-Role: fullstack
-Core technologies: Solidity, Node.js, Vue.js, AWS
+- **Smart contract (with web UI) in Ethereum blockchain for managing collateral**
+- Role: fullstack
+- Core technologies: Solidity, Node.js, Vue.js, AWS
 
-Browser automation tool for topping up multiple accounts
-Role: backend
-Core technologies: Puppeteer, Node.js, MongoDB
+- **Browser automation tool for topping up multiple accounts**
+- Role: backend
+- Core technologies: Puppeteer, Node.js, MongoDB
 
-Browser extension managing cookies and local storage
-Role: frontend
-Core technologies: WebExtensions API
+- **Browser extension managing cookies and local storage**
+- Role: frontend
+- Core technologies: WebExtensions API
 
-Converting a web application (emulating user actions on a social media platform) to a browser extension
-Role: frontend
-Core technologies: WebExtensions API, Vue.js
+- **Converting a web application (emulating user actions on a social media platform) to a browser extension**
+- Role: frontend
+- Core technologies: WebExtensions API, Vue.js
 
-Improving/updating/fixing/tweaking a number of browser extension for Chrome and/or Firefox:
-- for working with Google Drive, OneNote, youtube, Photobucket
-- downloading videos from a social media platform
-- controlling and blocking popups
-- converting web pages to pdf
-- tweaking HTML5 video player on a particular website
-- text to speech
-- enhancing DevTools
-- enhancing the UI of a number of websites (property bookings and CRMs)
-- notifications
-- managing tabs
-- working with images
-Role: backend, frontend, fullstack
-Core technologies: WebExtensions API, Node.js
+- **Improving/updating/fixing/tweaking a number of browser extension for Chrome and/or Firefox:**
+  - for working with Google Drive, OneNote, youtube, Photobucket
+  - downloading videos from a social media platform
+  - controlling and blocking popups
+  - converting web pages to pdf
+  - tweaking HTML5 video player on a particular website
+  - text to speech
+  - enhancing DevTools
+  - enhancing the UI of a number of websites (property bookings and CRMs)
+  - notifications
+  - managing tabs
+  - working with images
+- Role: backend, frontend, fullstack
+- Core technologies: WebExtensions API, Node.js
 
-Updating a (legacy) parser/crawler for 3 websites without CAPTCHA (≈20k + ≈300 + ≈130k pages)
-Role: backend
-Core technologies: Cheerio.js, PhantomJS, Node.js
+- **Updating a (legacy) parser/crawler for 3 websites without CAPTCHA (≈20k + ≈300 + ≈130k pages)**
+- Role: backend
+- Core technologies: Cheerio.js, PhantomJS, Node.js
 
-Browser extension to suggest products for the users based on their search history
-Role: frontend
-Core technologies: WebExtensions API, React
+- **Browser extension to suggest products for the users based on their search history**
+- Role: frontend
+- Core technologies: WebExtensions API, React
 
-Trading bot for 3 crypto trading platforms
-Role: fullstack
-Core technologies: Node.js, React, MongoDB
+- **Trading bot for 3 crypto trading platforms**
+- Role: fullstack
+- Core technologies: Node.js, React, MongoDB
 
-Cryptocurrency smart contract in Ethereum blockchain
-Role: fullstack
-Core technologies: Solidity, Solidity assembly, Node.js, MongoDB, React, AWS, web3
+- **Cryptocurrency smart contract in Ethereum blockchain**
+- Role: fullstack
+- Core technologies: Solidity, Solidity assembly, Node.js, MongoDB, React, AWS, web3
 
-Browser extensions to automate the user action on 2 major affiliate marketing networks
-Role: frontend
-Core technologies: WebExtensions API
+- **Browser extensions to automate the user action on 2 major affiliate marketing networks**
+- Role: frontend
+- Core technologies: WebExtensions API
 
 
 
