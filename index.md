@@ -53,8 +53,6 @@ __Nizhniy Novgorod State Technical University named after R.Y. Alekseev (NSTU)__
 
 - Doctor of Philosophy (Ph.D.), Management Information Systems, General
 
----
-
 `2009-2012`
 __Nizhniy Novgorod State Technical University named after R.Y. Alekseev (NSTU)__
 
