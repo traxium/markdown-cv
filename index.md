@@ -79,17 +79,17 @@ __Other:__
 
 ` `
 - __Improving/updating/fixing/tweaking a number of browser extension for Chrome and/or Firefox:__
-  - for working with Google Drive, OneNote, youtube, Photobucket
-  - downloading videos from a social media platform
-  - controlling and blocking popups
-  - converting web pages to pdf
-  - tweaking HTML5 video player on a particular website
-  - text to speech
-  - enhancing DevTools
-  - enhancing the UI of a number of websites (property bookings and CRMs)
-  - notifications
-  - managing tabs
-  - working with images
+  ● for working with Google Drive, OneNote, youtube, Photobucket\
+  ● downloading videos from a social media platform\
+  ● controlling and blocking popups\
+  ● converting web pages to pdf\
+  ● tweaking HTML5 video player on a particular website\
+  ● text to speech\
+  ● enhancing DevTools\
+  ● enhancing the UI of a number of websites (property bookings and CRMs)\
+  ● notifications\
+  ● managing tabs\
+  ● working with images\
 - Role: backend, frontend, fullstack
 - Core technologies: WebExtensions API, Node.js
 
