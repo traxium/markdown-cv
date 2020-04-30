@@ -1,91 +1,123 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Sergey Zelentsov's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Sergey Zelentsov
+JavaScript developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="crayfishexterminator@gmail.com">crayfishexterminator@gmail.com</a>
+| <a href="https://github.com/traxium">My GitHub profile</a>
+  <a href="https://www.upwork.com/fl/extensions">My Upwork profile</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- Looking for a full-time position
+- Maintaining a few old commercial projects
+- Working on 1 pet project
 
 
-### Research interests
+### Skills
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Front-end:
+● JavaScript (ES6+, WebSocket/Socket.IO, Vue.js, Vuex, Bootstrap Vue, React)
+● CSS (SASS, PostCSS, Less, Stylus, Bootstrap, Materialize CSS, Semantic UI, CSS animations)
+● Webpack, Gulp, npm/yarn scripts, Grunt, ESLint, Prettier, JSHint, JSLint
+
+Back-end/DevOps:
+● Node.js, Express.js, Koa.js, MongoDB, Mongoose.js, MySQL, PostgreSQL
+● Docker, Nginx, Apache, pm2, Linux, AWS, DigitalOcean
+
+Other:
+● TDD, BDD, Mocha, Chai, Jest, Jasmine
+● Solidity, Truffle, Embark, Geth, Parity, web3.js
+● C++11/Qt
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2007-2011`
+__Nizhniy Novgorod State Technical University named after R.Y. Alekseev (NSTU)__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Bachelor's degree, Computer and Information Sciences, General (Honors Diploma)
 
-- Sizar
+`2011-2013`
+__Nizhniy Novgorod State Technical University named after R.Y. Alekseev (NSTU)__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Master's degree, Computer and Information Sciences, General (Honors Diploma)
 
-- Fellow
+`2013-`
+__Nizhniy Novgorod State Technical University named after R.Y. Alekseev (NSTU)__
 
+- Doctor of Philosophy (Ph.D.), Management Information Systems, General
 
+---
 
-## Awards
+`2009-2012`
+__Nizhniy Novgorod State Technical University named after R.Y. Alekseev (NSTU)__
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Bachelor's degreeField Of StudyBusiness Administration and Management, General
 
 
-## Occupation
+## Recent projects
 
-`1600`
-__Royal Mint__, London
+Smart contract (with web UI) in Ethereum blockchain for managing collateral
+Role: fullstack
+Core technologies: Solidity, Node.js, Vue.js, AWS
 
-- Warden
-- Minted coins
+Browser automation tool for topping up multiple accounts
+Role: backend
+Core technologies: Puppeteer, Node.js, MongoDB
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Browser extension managing cookies and local storage
+Role: frontend
+Core tecnologies: WebExtensions API
+
+Converting a web application (emulating user actions on a social media platform) to a browser extension
+Role: frontend
+Core technologies: WebExtensions API, Vue.js
+
+Improving/updating/fixing/tweaking a number of browser extension for Chrome and/or Firefox:
+- for working with Google Drive, OneNote, youtube, Photobucket
+- downloading videos from a social media platform
+- controlling and blocking popups
+- converting web pages to pdf
+- tweaking HTML5 video player on a particular website
+- text to speach
+- enhancing DevTools
+- enhancing the UI of a number of websites (property bookings and CRMs)
+- notifications
+- managing tabs
+- woriking with images
+Role: backend, frontend, fullstack
+Core technologeis: WebExtensions API, Node.js
+
+Updating a (legacy) parser/crawler for 3 websites without CAPTCHA (≈20k + ≈300 + ≈130k pages)
+Role: backend
+Core technologeis: Cheerio.js, PhantomJS, Node.js
+
+Browser extension to suggest products for the users based on their search history
+Role: frontend
+Core technologies: WebExtensions API, React
+
+Trading bot for 3 crypto trading platforms
+Role: fullstack
+Core technologies: Node.js, React, MongoDB
+
+Cryptocurrency contract in Ethereum blockchain
+Role: fullstack
+Core technologeis: Solidity, Solidity assembly, Node.js, MongoDB, React, AWS, web3
+
+Browser extensions to automate the user action on 2 major affiliate marketing networks
+Role: frontend
+Core technologeis: WebExtensions API
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2020 -->
 
 
