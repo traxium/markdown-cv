@@ -39,20 +39,20 @@ __Other:__
 ## Education
 
 `2007-2011`
-__Nizhniy Novgorod State Technical University named after R.Y. Alekseev (NSTU)__
-_Bachelor's degree, Computer and Information Sciences, General_ (Honors Diploma)
+- __Nizhniy Novgorod State Technical University named after R.Y. Alekseev (NSTU)__
+- _Bachelor's degree, Computer and Information Sciences, General_ (Honors Diploma)
 
 `2011-2013`
-__Nizhniy Novgorod State Technical University named after R.Y. Alekseev (NSTU)__
-_Master's degree, Computer and Information Sciences, General_ (Honors Diploma)
+- __Nizhniy Novgorod State Technical University named after R.Y. Alekseev (NSTU)__
+- _Master's degree, Computer and Information Sciences, General_ (Honors Diploma)
 
 `2013-`
-__Nizhniy Novgorod State Technical University named after R.Y. Alekseev (NSTU)__
-_Doctor of Philosophy (Ph.D.), Management Information Systems, General_
+- __Nizhniy Novgorod State Technical University named after R.Y. Alekseev (NSTU)__
+- _Doctor of Philosophy (Ph.D.), Management Information Systems, General_
 
 `2009-2012`
-__Nizhniy Novgorod State Technical University named after R.Y. Alekseev (NSTU)__
-_Bachelor's degreeField Of StudyBusiness Administration and Management, General_
+- __Nizhniy Novgorod State Technical University named after R.Y. Alekseev (NSTU)__
+- _Bachelor's degreeField Of StudyBusiness Administration and Management, General_
 
 
 ## Recent projects
