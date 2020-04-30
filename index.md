@@ -21,19 +21,19 @@ JavaScript developer
 
 ### Skills
 
-Front-end:
-● JavaScript (ES6+, WebSocket/Socket.IO, Vue.js, Vuex, Bootstrap Vue, React)
-● CSS (SASS, PostCSS, Less, Stylus, Bootstrap, Materialize CSS, Semantic UI, CSS animations)
-● Webpack, Gulp, npm/yarn scripts, Grunt, ESLint, Prettier, JSHint, JSLint
+__Front-end:__
+- JavaScript (ES6+, WebSocket/Socket.IO, Vue.js, Vuex, Bootstrap Vue, React)
+- CSS (SASS, PostCSS, Less, Stylus, Bootstrap, Materialize CSS, Semantic UI, CSS animations)
+- Webpack, Gulp, npm/yarn scripts, Grunt, ESLint, Prettier, JSHint, JSLint
 
-Back-end/DevOps:
-● Node.js, Express.js, Koa.js, MongoDB, Mongoose.js, MySQL, PostgreSQL
-● Docker, Nginx, Apache, pm2, Linux, AWS, DigitalOcean
+__Back-end/DevOps:__
+- Node.js, Express.js, Koa.js, MongoDB, Mongoose.js, MySQL, PostgreSQL
+- Docker, Nginx, Apache, pm2, Linux, AWS, DigitalOcean
 
-Other:
-● TDD, BDD, Mocha, Chai, Jest, Jasmine
-● Solidity, Truffle, Embark, Geth, Parity, web3.js
-● C++11/Qt
+__Other:__
+- TDD, BDD, Mocha, Chai, Jest, Jasmine
+- Solidity, Truffle, Embark, Geth, Parity, web3.js
+- C++11/Qt
 
 
 ## Education
