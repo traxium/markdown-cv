@@ -8,7 +8,7 @@ JavaScript developer
 <div id="webaddress">
   <a href="crayfishexterminator@gmail.com">crayfishexterminator@gmail.com</a>
 | <a href="https://github.com/traxium">My GitHub profile</a>
-  <a href="https://www.upwork.com/fl/extensions">My Upwork profile</a>
+|  <a href="https://www.upwork.com/fl/extensions">My Upwork profile (100% Job Success Score, Top Rated)</a>
 </div>
 
 
