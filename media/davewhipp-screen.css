@@ -125,6 +125,7 @@ h1 {
 	line-height: 1em;
 	position: relative;
 	left: 25%;
+	width: 75%;
 }
 
 h1+p {
@@ -165,6 +166,7 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
+	width: 75%;
 	color: #bc412b;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
