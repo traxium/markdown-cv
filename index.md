@@ -14,13 +14,13 @@ JavaScript developer
 
 ## Skills
 
-- Front-end: JavaScript/ES6+, WebExtensions API, Vue.js, Vuex, Bootstrap Vue, WebSocket/Socket.IO, React, Redux:
-- Build tools: Webpack, Gulp, npm/yarn scripts, Grunt, Prettier, ESLint, JSHint, JSLint
-- Unit testing: TDD, BDD, Mocha, Chai, Jest, Jasmine
-- Browser automation: Puppeteer/Headless Chrome, PhantomJS, SlimerJS, CasperJS, cheerio.js, Selenium
-- Back-end: Node.js, Express.js, Koa.js, MongoDB, Mongoose.js, SQL
-- DevOps: Docker, Nginx, Apache, pm2, Linux, AWS
-- Decentralized applications: Solidity, Truffle, Embark, Geth, Parity, web3.js, Infura, ethers.js
+- __Front-end:__ JavaScript/ES6+, WebExtensions API, Vue.js, Vuex, Bootstrap Vue, WebSocket/Socket.IO, React, Redux
+- __Build tools:__ Webpack, Gulp, npm/yarn scripts, Grunt, Prettier, ESLint, JSHint, JSLint
+- __Unit testing:__ TDD, BDD, Mocha, Chai, Jest, Jasmine
+- __Browser automation:__ Puppeteer/Headless Chrome, PhantomJS, SlimerJS, CasperJS, cheerio.js, Selenium
+- __Back-end:__ Node.js, Express.js, Koa.js, MongoDB, Mongoose.js, SQL
+- __DevOps:__ Docker, Nginx, Apache, pm2, Linux, AWS
+- __Decentralized applications:__ Solidity, Truffle, Embark, Geth, Parity, web3.js, Infura, ethers.js
 
 
 ## Education
