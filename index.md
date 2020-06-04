@@ -12,28 +12,15 @@ JavaScript developer
 </div>
 
 
-## Currently
-
-- Looking for a full-time position
-- Maintaining a few old commercial projects
-- Working on 1 pet project
-
-
 ## Skills
 
-__Front-end:__
-- JavaScript (ES6+, WebSocket/Socket.IO, Vue.js, Vuex, Bootstrap Vue, React)
-- CSS (SASS, PostCSS, Less, Stylus, Bootstrap, Materialize CSS, Semantic UI, CSS animations)
-- Webpack, Gulp, npm/yarn scripts, Grunt, ESLint, Prettier, JSHint, JSLint
-
-__Back-end/DevOps:__
-- Node.js, Express.js, Koa.js, MongoDB, Mongoose.js, MySQL, PostgreSQL
-- Docker, Nginx, Apache, pm2, Linux, AWS, DigitalOcean
-
-__Other:__
-- TDD, BDD, Mocha, Chai, Jest, Jasmine
-- Solidity, Truffle, Embark, Geth, Parity, web3.js
-- C++11/Qt
+- Front-end: JavaScript/ES6+, WebExtensions API, Vue.js, Vuex, Bootstrap Vue, WebSocket/Socket.IO, React, Redux:
+- Build tools: Webpack, Gulp, npm/yarn scripts, Grunt, Prettier, ESLint, JSHint, JSLint
+- Unit testing: TDD, BDD, Mocha, Chai, Jest, Jasmine
+- Browser automation: Puppeteer/Headless Chrome, PhantomJS, SlimerJS, CasperJS, cheerio.js, Selenium
+- Back-end: Node.js, Express.js, Koa.js, MongoDB, Mongoose.js, SQL
+- DevOps: Docker, Nginx, Apache, pm2, Linux, AWS
+- Decentralized applications: Solidity, Truffle, Embark, Geth, Parity, web3.js, Infura, ethers.js
 
 
 ## Education
@@ -122,4 +109,4 @@ __Other:__
 
 <!-- ### Footer
 
-Last updated: April 2020 -->
+Last updated: June 2020 -->
