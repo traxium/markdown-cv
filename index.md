@@ -14,8 +14,8 @@ JavaScript developer
 
 ## Skills
 
-- __Front-end:__ JavaScript/ES6+, WebExtensions API, Vue.js, Vuex, Bootstrap Vue, WebSocket/Socket.IO, React, Redux
-- __Build tools:__ Webpack, Gulp, npm/yarn scripts, Grunt, Prettier, ESLint, JSHint, JSLint
+- __Front-end:__ TypeScript, JavaScript/ES6+, WebExtensions API, WebSocket/Socket.IO, React, Redux, Vue, Vuex
+- __Build tools:__ Webpack, Gulp, npm/yarn scripts, Prettier, ESLint, JSHint, JSLint
 - __Unit testing:__ TDD, BDD, Mocha, Chai, Jest, Jasmine
 - __Browser automation:__ Puppeteer/Headless Chrome, PhantomJS, SlimerJS, CasperJS, cheerio.js, Selenium
 - __Back-end:__ Node.js, Express.js, Koa.js, MongoDB, Mongoose.js, SQL
