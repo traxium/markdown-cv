@@ -8,7 +8,6 @@ JavaScript developer
 <div id="webaddress">
   <a href="crayfishexterminator@gmail.com">crayfishexterminator@gmail.com</a>
 | <a href="https://github.com/traxium">GitHub profile</a>
-| <a href="https://www.upwork.com/fl/extensions">Upwork profile (100% Job Success Score, Top Rated)</a>
 </div>
 
 
@@ -33,7 +32,7 @@ JavaScript developer
 - __Nizhny Novgorod State Technical University named after R.Y. Alekseev (NSTU)__
 - Master's degree, Computer and Information Sciences, General (Honors Diploma)
 
-`2013-`
+`2013-2017`
 - __Nizhny Novgorod State Technical University named after R.Y. Alekseev (NSTU)__
 - Doctor of Philosophy (Ph.D.), Management Information Systems, General
 
@@ -109,4 +108,4 @@ JavaScript developer
 
 <!-- ### Footer
 
-Last updated: June 2020 -->
+Last updated: Jule 2020 -->
