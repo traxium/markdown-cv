@@ -3,7 +3,7 @@ layout: cv
 title: Sergey Zelentsov's CV
 ---
 # Sergey Zelentsov
-JavaScript developer
+Web Developer
 
 <div id="webaddress">
   <a href="crayfishexterminator@gmail.com">crayfishexterminator@gmail.com</a>
