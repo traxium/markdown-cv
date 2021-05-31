@@ -6,7 +6,6 @@ title: Sergey Zelentsov's CV
 Web Developer
 
 <div id="webaddress">
-  <a href="crayfishexterminator@gmail.com">crayfishexterminator@gmail.com</a>
 | <a href="https://github.com/traxium">GitHub profile</a>
 </div>
 
