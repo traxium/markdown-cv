@@ -3,7 +3,7 @@ layout: cv
 title: Sergey Zelentsov's CV
 ---
 # Sergey Zelentsov
-Web Developer
+TypeScript Developer
 
 <div id="webaddress">
 | <a href="https://github.com/traxium">GitHub profile</a>
@@ -12,12 +12,12 @@ Web Developer
 
 ## Skills
 
-- __Front-end:__ JavaScript/TypeScript, Angular, React, Vue, WebExtensions API, WebAssembly (Blazor)
+- __Front-end:__ TypeScript/JavaScript, React, Vue, Angular, WebExtensions API, Google Apps Script, WebAssembly (Blazor)
 - __Build tools:__ Webpack, Gulp, npm/yarn scripts, Prettier, ESLint, JSHint, JSLint
 - __Unit testing:__ TDD, BDD, Mocha, Chai, Jest, Jasmine
 - __Browser automation:__ Puppeteer/Headless Chrome, PhantomJS, SlimerJS, CasperJS, cheerio.js, Selenium
 - __Back-end:__ Node.js, Express.js, Koa.js, MongoDB, Mongoose.js, SQL
-- __DevOps:__ Docker, Nginx, Apache, pm2, Linux, AWS
+- __DevOps:__ Nginx, Docker, AWS, pm2, Linux
 - __Decentralized applications:__ Solidity, Truffle, Embark, Geth, Parity, web3.js, Infura, ethers.js
 
 
@@ -41,6 +41,26 @@ Web Developer
 
 
 ## Recent projects
+
+` `
+- __Charity search engine website + Chrome extension__
+- Role: front-end
+- Core technologies: Vue, Vuex
+
+` `
+- __Google Sheets add-on with UI in sidebar__
+- Role: front-end
+- Core technologies: Google Apps Script, clasp, Vue, Vuex
+
+` `
+- __Chrome extension for extending Gmail__
+- Role: front-end
+- Core technologies: InboxSDK, Vue, Vuex
+
+` `
+- __Chrome (+ Firefox and Edge) extension for LinkedIn__
+- Role: front-end
+- Core technologies: React, Redux, Redux-Saga
 
 ` `
 - __Smart contract (with web UI) in Ethereum blockchain for managing collateral__
@@ -107,4 +127,4 @@ Web Developer
 
 <!-- ### Footer
 
-Last updated: Jule 2020 -->
+Last updated: Jule 2021 -->
