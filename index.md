@@ -42,47 +42,47 @@ TypeScript Developer
 
 ## Recent projects
 
-` `
+`-`
 - __Charity search engine website + Chrome extension__
 - Role: front-end
 - Core technologies: Vue, Vuex
 
-` `
+`-`
 - __Google Sheets add-on with UI in sidebar__
 - Role: front-end
 - Core technologies: Google Apps Script, clasp, Vue, Vuex
 
-` `
+`-`
 - __Chrome extension for extending Gmail__
 - Role: front-end
 - Core technologies: InboxSDK, Vue, Vuex
 
-` `
+`-`
 - __Chrome (+ Firefox and Edge) extension for LinkedIn__
 - Role: front-end
 - Core technologies: React, Redux, Redux-Saga
 
-` `
+`-`
 - __Smart contract (with web UI) in Ethereum blockchain for managing collateral__
 - Role: fullstack
 - Core technologies: Solidity, Node.js, Vue.js, AWS
 
-` `
+`-`
 - __Browser automation tool for topping up multiple accounts__
 - Role: backend
 - Core technologies: Puppeteer, Node.js, MongoDB
 
-` `
+`-`
 - __Browser extension managing cookies and local storage__
 - Role: frontend
 - Core technologies: WebExtensions API
 
-` `
+`-`
 - __Converting a web application (emulating user actions on a social media platform) to a browser extension__
 - Role: frontend
 - Core technologies: WebExtensions API, Vue.js
 
-` `
+`-`
 - __Improving/updating/fixing/tweaking a number of browser extension for Chrome and/or Firefox:__<br>
   ● for working with Google Drive, OneNote, youtube, Photobucket<br>
   ● downloading videos from a social media platform<br>
@@ -98,27 +98,27 @@ TypeScript Developer
 - Role: backend, frontend, fullstack
 - Core technologies: WebExtensions API, Node.js
 
-` `
+`-`
 - __Updating a (legacy) parser/crawler for 3 websites without CAPTCHA (≈20k + ≈300 + ≈130k pages)__
 - Role: backend
 - Core technologies: Cheerio.js, PhantomJS, Node.js
 
-` `
+`-`
 - __Browser extension to suggest products for the users based on their search history__
 - Role: frontend
 - Core technologies: WebExtensions API, React
 
-` `
+`-`
 - __Trading bot for 3 crypto trading platforms__
 - Role: fullstack
 - Core technologies: Node.js, React, MongoDB
 
-` `
+`-`
 - __Cryptocurrency smart contract in Ethereum blockchain__
 - Role: fullstack
 - Core technologies: Solidity, Solidity assembly, Node.js, MongoDB, React, AWS, web3
 
-` `
+`-`
 - __Browser extensions to automate the user action on 2 major affiliate marketing networks__
 - Role: frontend
 - Core technologies: WebExtensions API
