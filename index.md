@@ -6,14 +6,14 @@ title: Sergey Zelentsov's CV
 TypeScript Developer
 
 <div id="webaddress">
-| <a href="https://github.com/traxium">GitHub profile</a>
+<a href="https://www.upwork.com/freelancers/~016d2e35b1f8ffee59">Upwork profile</a> | <a href="https://github.com/traxium">GitHub profile</a>
 </div>
 
 
 ## Skills
 
-- __Front-end:__ TypeScript/JavaScript, React, Vue, Angular, WebExtensions API, Google Apps Script, WebAssembly (Blazor)
-- __Build tools:__ Webpack, Gulp, npm/yarn scripts, Prettier, ESLint, JSHint, JSLint
+- __Front-end:__ TypeScript/JavaScript, Vue, React, Angular, WebExtensions API, Google Apps Script, WebAssembly (Blazor)
+- __Build tools:__ Webpack, npm/yarn scripts, Gulp, Prettier, ESLint, JSHint, JSLint
 - __Unit testing:__ TDD, BDD, Mocha, Chai, Jest, Jasmine
 - __Browser automation:__ Puppeteer/Headless Chrome, PhantomJS, SlimerJS, CasperJS, cheerio.js, Selenium
 - __Back-end:__ Node.js, Express.js, Koa.js, MongoDB, Mongoose.js, SQL
@@ -43,29 +43,24 @@ TypeScript Developer
 ## Recent projects
 
 `-`
-- __Charity search engine website + Chrome extension__
+- __Charity search engine web app + Chrome extension__
 - Role: front-end
 - Core technologies: Vue, Vuex
 
 `-`
-- __Google Sheets add-on with UI in sidebar__
+- __Web app (route planner) + Google Sheets add-on + Chrome extension__
 - Role: front-end
-- Core technologies: Google Apps Script, clasp, Vue, Vuex
+- Core technologies: Vue, Vuex, Google Apps Script, clasp, InboxSDK
 
 `-`
-- __Chrome extension for extending Gmail__
-- Role: front-end
-- Core technologies: InboxSDK, Vue, Vuex
-
-`-`
-- __Chrome (+ Firefox and Edge) extension for LinkedIn__
+- __Web app (search engine for leads) + Chrome/Firefox/Edge extension for LinkedIn__
 - Role: front-end
 - Core technologies: React, Redux, Redux-Saga
 
 `-`
-- __Smart contract (with web UI) in Ethereum blockchain for managing collateral__
+- __Smart contract (with web UI) in Ethereum blockchain for managing collaterals__
 - Role: fullstack
-- Core technologies: Solidity, Node.js, Vue.js, AWS
+- Core technologies: Solidity, Node.js, Vue, AWS
 
 `-`
 - __Browser automation tool for topping up multiple accounts__
@@ -73,17 +68,12 @@ TypeScript Developer
 - Core technologies: Puppeteer, Node.js, MongoDB
 
 `-`
-- __Browser extension managing cookies and local storage__
-- Role: frontend
-- Core technologies: WebExtensions API
-
-`-`
 - __Converting a web application (emulating user actions on a social media platform) to a browser extension__
 - Role: frontend
-- Core technologies: WebExtensions API, Vue.js
+- Core technologies: WebExtensions API, React
 
 `-`
-- __Improving/updating/fixing/tweaking a number of browser extension for Chrome and/or Firefox:__<br>
+- __Improving/updating/fixing/tweaking a number of browser extensions for Chrome and/or Firefox:__<br>
   ● for working with Google Drive, OneNote, youtube, Photobucket<br>
   ● downloading videos from a social media platform<br>
   ● controlling and blocking popups<br>
@@ -109,19 +99,19 @@ TypeScript Developer
 - Core technologies: WebExtensions API, React
 
 `-`
-- __Trading bot for 3 crypto trading platforms__
-- Role: fullstack
-- Core technologies: Node.js, React, MongoDB
-
-`-`
 - __Cryptocurrency smart contract in Ethereum blockchain__
 - Role: fullstack
-- Core technologies: Solidity, Solidity assembly, Node.js, MongoDB, React, AWS, web3
+- Core technologies: Solidity, Solidity assembly, Node.js, MongoDB, Vue, AWS, web3
 
 `-`
-- __Browser extensions to automate the user action on 2 major affiliate marketing networks__
+- __Browser automation for 2 major affiliate marketing networks__
 - Role: frontend
 - Core technologies: WebExtensions API
+
+`-`
+- __Trading bot for 3 crypto trading platforms__
+- Role: fullstack
+- Core technologies: Node.js, Vue, MongoDB
 
 
 
