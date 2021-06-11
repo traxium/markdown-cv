@@ -12,7 +12,7 @@ TypeScript Developer
 
 ## Skills
 
-- __Front-end:__ TypeScript/JavaScript, Vue, React, Angular, WebExtensions API, Google Apps Script, WebAssembly (Blazor)
+- __Front-end:__ TypeScript/JavaScript, Vue, React, WebExtensions API, Google Apps Script, WebAssembly (Blazor)
 - __Build tools:__ Webpack, npm/yarn scripts, Gulp, Prettier, ESLint, JSHint, JSLint
 - __Unit testing:__ TDD, BDD, Mocha, Chai, Jest, Jasmine
 - __Browser automation:__ Puppeteer/Headless Chrome, PhantomJS, SlimerJS, CasperJS, cheerio.js, Selenium
